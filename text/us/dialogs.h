@@ -26,9 +26,7 @@ worlds.\n\
 First, talk to the\n\
 Bob-omb Buddy. (Press [B]\n\
 to talk.) He'll certainly\n\
-help you out, and so will\n\
-his " COMRADES " in other\n\
-areas.\n\
+help you out.\n\
 To read signs, stop, face\n\
 them and press [B]. Press [A]\n\
 or [B] to scroll ahead. You\n\
@@ -84,8 +82,8 @@ just begun.\n\
 Other enemies are holding\n\
 the other Power Stars. If\n\
 you recover more Stars,\n\
-you can open new doors\n\
-that lead to new worlds!\n\
+you can open new doors.\n\
+Continue to new worlds!\n\
 My Bob-omb Buddies are\n\
 waiting for you. Be sure\n\
 to talk to them--they'll\n\
@@ -105,13 +103,12 @@ you to use. Bon Voyage!"))
 DEFINE_DIALOG(DIALOG_005, 1, 3, 30, 200, _("\
 Hey, Mario! Is it true\n\
 that you beat the Big\n\
-Bob-omb? Cool!\n\
-You must be strong. And\n\
-pretty fast. So, how fast\n\
-are you, anyway?\n\
-Fast enough to beat me...\n\
-Koopa the Quick? I don't\n\
-think so. Just try me.\n\
+Bob-omb? You're too cool!\n\
+You sure strong. I'll give\n\
+you that, and you have\n\
+fast feet...but you're not\n\
+as fleet as...\n\
+Koopa the Quick!\n\
 How about a race to the\n\
 mountaintop, where the\n\
 Big Bob-omb was?\n\
@@ -123,12 +120,8 @@ Ready....\n\
 //Go!////Don't Go"))
 
 DEFINE_DIALOG(DIALOG_006, 1, 3, 30, 200, _("\
-Hey!!! Don't try to " SCAM_ME
-"You've gotta run\n\
-the whole course.\n\
-Later. Look me up when\n\
-you want to race for\n\
-real."))
+Hey!!! No cheating!\n\
+Come back when you want to play fair!\n\
 
 DEFINE_DIALOG(DIALOG_007, 1, 5, 30, 200, _("\
 Hufff...fff...pufff...\n\
