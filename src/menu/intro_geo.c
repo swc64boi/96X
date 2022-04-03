@@ -12,7 +12,7 @@
 #include "audio/external.h"
 
 // frame counts for the zoom in, hold, and zoom out of title model
-#define INTRO_STEPS_ZOOM_IN 20
+#define INTRO_STEPS_ZOOM_IN 91
 #define INTRO_STEPS_HOLD_1 75
 #define INTRO_STEPS_ZOOM_OUT 91
 
